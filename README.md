@@ -1,0 +1,1 @@
+In this project, I tried to write test cases for the main functionalities of the Pickabo e-commerce website.At the same time, an attempt has been made to create a test plan, test scenario and bug reporting.
